@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="djB-bn-2eA">
-                                <rect key="frame" x="143" y="432" width="139" height="48"/>
+                                <rect key="frame" x="150" y="433" width="126" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGrayColor"/>
-                                <fontDescription key="fontDescription" type="italicSystem" pointSize="30"/>
-                                <state key="normal" title="Press Me!!">
+                                <fontDescription key="fontDescription" type="italicSystem" pointSize="29"/>
+                                <state key="normal" title="Press Me!">
                                     <color key="titleColor" systemColor="labelColor"/>
                                 </state>
                             </button>
